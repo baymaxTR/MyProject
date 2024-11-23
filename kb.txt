@@ -1,0 +1,109 @@
+default_profile
+rename_Profile_Label -> rename_Label
+textfield_profile
+edit_Profile_Label
+backgroundView_selector
+open_Profile_Panel -> Profile_Panel_btn
+menu_profile_fm1 ->Profile_Menu_btn
+icon_profile_selector
+fm1_profile
+image_Background_Default
+remove_background -> background_remove_btn
+create_folder_btn
+Folder_View
+open_Folder_btn
+add_profile_btn
+Profile_Panel_btn
+New_Folder
+Folder_Menu_btn
+close_Profile_Panel
+Dashboard_Settings_View
+blur_Switch
+fade_slider
+fade_container
+device_table_Container
+scrollView_DEVICE_ShortcutDeviceCaption
+device_NavigtionView
+device_setting_btn
+check_update -> check_update_btn
+update_popup -> firmware_update_Popup
+dimmer -> dimmer_btn
+brighter -> brighter_btn
+power_saving_Container
+power_saving_mode -> power_saving_btn
+sleep_mode_Container
+sleep_mode -> sleep_mode_btn
+list_layout
+mural_effect_toggle
+remap_keyboard
+remap_mouse
+remap_keystroke
+text
+media
+launchApp
+disable
+profileswitching
+macro
+lang_keys
+bra_lang_btn
+yen_lang_btn
+copy_Event_Label
+paste_Below_Label
+undo_Label
+delete_Event_Label
+
+setting - renameFunction_1
+setting - renameFunction_2
+setting - remove_name
+setting - iconProfile
+setting - backgroundProfile
+setting - createProfile
+setting - customProfile
+setting - deleteProfile
+setting - deleteFolder
+setting - backgroundFunction
+setting - updateFunction
+setting - precondiction_polling_check
+setting - pollingrateFunction
+setting - brightnessFunction
+setting - sleepFunction
+setting - backgroundFunction
+lighting - createLightingLink
+action - createAction
+action_langkeysRemap
+action_init
+
+tst_profile
+tst_device setting
+tst_update firmware
+tst_Dashboard
+tst-Lighting_effect_sidebar
+tst_remap2
+tst_ptoile_switching
+tst_sidebar
+tst_basic device settings
+tst_basic media
+
+remove:
+profile_by_name
+profile_by_name_1
+menu_profile
+remove_icon
+backgrounds_selector
+profiles_container
+create_profile_popup
+profile_by_findme1
+menu_profile_fm1
+background_image
+background_selector
+settings_popup
+scrollView_ScrollView
+scrollView_Device_Settings_Label
+select_profile_btn
+scrollView_Profile_1_TextWithToolTipMultiline
+scrollView_Profile_2_TextWithToolTipMultiline
+scrollView_Profile_3_TextWithToolTipMultiline
+scrollView_Profile_4_TextWithToolTipMultiline
+mainWindowContent_button_Button
+add_background_image
+mainWindowContent_button_Button
